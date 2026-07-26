@@ -1,0 +1,2 @@
+ALTER TABLE public.site_settings ADD COLUMN IF NOT EXISTS hero_dashboard_image_url TEXT;
+UPDATE public.site_settings SET hero_dashboard_image_url = 'https://szktsksyfniksaoncghr.supabase.co/storage/v1/object/public/popup-images/hero-dashboard-2026.png' WHERE id = 1;

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://manaja.solutions/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://manaja.solutions/modules</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://manaja.solutions/modules#crm</loc><priority>0.8</priority></url>
+  <url><loc>https://manaja.solutions/modules#hr</loc><priority>0.8</priority></url>
+  <url><loc>https://manaja.solutions/modules#finance</loc><priority>0.8</priority></url>
+  <url><loc>https://manaja.solutions/modules#inventory</loc><priority>0.8</priority></url>
+  <url><loc>https://manaja.solutions/modules#real-estate</loc><priority>0.8</priority></url>
+  <url><loc>https://manaja.solutions/modules#compliance</loc><priority>0.8</priority></url>
+  <url><loc>https://manaja.solutions/modules#projects</loc><priority>0.8</priority></url>
+  <url><loc>https://manaja.solutions/modules#analytics</loc><priority>0.8</priority></url>
+  <url><loc>https://manaja.solutions/about</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://manaja.solutions/blog</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://manaja.solutions/roadmap</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://manaja.solutions/careers</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://manaja.solutions/contact</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://manaja.solutions/support</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://manaja.solutions/early-access</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://manaja.solutions/privacy-policy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://manaja.solutions/cookie-policy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://manaja.solutions/terms-of-use</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+</urlset>
